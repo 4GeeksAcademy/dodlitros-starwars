@@ -1,3 +1,27 @@
-/* 
-    General Styles
-*/
+body{
+  background-image: url("../img/space.webp");
+}
+
+.my-card {
+    
+    min-width: 350px;
+    margin: 5px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+    
+}
+
+.my-card > div >img { 
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+  }
+
+
+  .my-carrusel {
+    display: flex;
+    overflow-x:scroll ;
+    padding: 5px;
+    margin: 5px;
+  }
+

@@ -1,0 +1,475 @@
+[33mcommit 4c6d2eb1a834afc96de5710370b0b6caa5459ad4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Tomas Gonzalez <56565994+tommygonzaleza@users.noreply.github.com>
+Date:   Mon Jul 17 17:50:42 2023 -0400
+
+    Update webpack.prod.js
+
+[33mcommit 14badb0414ca4f26bb90910897c503e135f6760d[m
+Merge: 51e366e 3d6681e
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed May 10 19:54:48 2023 -0400
+
+    Merge pull request #65 from Lorenagubaira/react-hello-webapp.bp
+    
+    the settings.json file was updated
+
+[33mcommit 3d6681e9234e19301d9f19672e2eec30dd2ee7e2[m
+Author: lorenagubaira <102861577+Lorenagubaira@users.noreply.github.com>
+Date:   Mon May 8 18:15:59 2023 +0000
+
+    the settings.json file was updated
+
+[33mcommit 51e366e5dd6c8ff2e79f195ab0ff4440dd1adc19[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue May 2 14:08:25 2023 -0400
+
+    Update .eslintrc
+
+[33mcommit 49afc013a3c8cbc4bd6bb74038868b1b27d19c4b[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Mon Apr 24 16:23:31 2023 +0000
+
+    enabling hot deploy
+
+[33mcommit 4a51830f7d2a78360ec3f6cfc75535ff167321c7[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Mon Apr 24 16:22:49 2023 +0000
+
+    enabling hot deploy
+
+[33mcommit 8c1823dcd0f5dd1b7f7f6486213e8810f8228546[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed Apr 12 16:21:31 2023 +0000
+
+    added devcontainer
+
+[33mcommit 4fa5747c74a7e45d5f3b4edc182d4b7dd4954c5f[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed Mar 29 22:33:32 2023 -0400
+
+    Update README.md
+
+[33mcommit ae6894454158ce841ef2c53691f68ed7a0647d60[m
+Merge: 2f1c31e 88a6539
+Author: Tomas Gonzalez <56565994+tommygonzaleza@users.noreply.github.com>
+Date:   Wed Nov 23 08:29:36 2022 -0400
+
+    Merge pull request #55 from deimianvasquez/master
+    
+    feature updated react 18
+
+[33mcommit 88a6539ea2e4528999e327ffc0b35471bbbd2318[m
+Author: deimianvasquez <deimianvasquez@gmail.com>
+Date:   Wed Nov 23 04:49:50 2022 +0000
+
+    feature updated react 18
+
+[33mcommit 2f1c31ef1db0606cb4d4af7cbadb1fd5e6f108e5[m
+Merge: a0b6760 b8ac895
+Author: Tomas Gonzalez <56565994+tommygonzaleza@users.noreply.github.com>
+Date:   Tue Nov 22 06:56:40 2022 -0400
+
+    Merge pull request #51 from deimianvasquez/master
+    
+    [UPDATE] add react router version 6
+
+[33mcommit b8ac8958374f36d225794d51573ecf8b9e31aa82[m
+Author: deimianvasquez <deimianvasquez@gmail.com>
+Date:   Tue Nov 22 00:00:55 2022 +0000
+
+    add react router version 6
+
+[33mcommit a0b67603ab2bc314549b39e076bbe3419e15f60e[m
+Merge: edfbb84 4802c5b
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Dec 10 22:40:16 2021 -0500
+
+    Merge pull request #36 from AbreuY/master
+    
+    Added the js files required for the proper functioning of bootstrap
+
+[33mcommit 4802c5b888bc2f46043eebf3a67f50b67f5c3ad7[m
+Author: AbreuY <yolfran12@gmail.com>
+Date:   Fri Dec 10 21:50:25 2021 -0500
+
+    fix misleading word
+
+[33mcommit 4bd1a4f3bbb75b7b5fac9760b5163a5259c7ad4b[m
+Author: AbreuY <yolfran12@gmail.com>
+Date:   Fri Dec 10 21:42:34 2021 -0500
+
+    Added the js files required for the proper functioning of bootstrap
+
+[33mcommit edfbb84eef4388d74f2766619107bb50095b2fe5[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Dec 9 16:53:28 2021 +0000
+
+    removed vercel installation by default
+
+[33mcommit 6f47a28de3f0a9bda1f1c8bc587fee00dbc1f96b[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Dec 9 16:51:43 2021 +0000
+
+    updated to node 16
+
+[33mcommit 558502b1436bc3554bebf41e91923451e41df656[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Dec 9 16:31:49 2021 +0000
+
+    upgraded to node v16
+
+[33mcommit 30697b1ea9cf19d8cf5e1cf3d10bb98a7ca725ca[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Nov 11 11:10:26 2021 -0500
+
+    Update .gitpod.yml
+
+[33mcommit 7304a9f2419efbecca6ec7cd0b212baa77be6ccd[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Sep 17 19:19:22 2021 +0000
+
+    fixed gitpod.yml
+
+[33mcommit 88a31426c82dbd47266ae2bf30cc144782a505d6[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Sep 17 19:15:44 2021 +0000
+
+    python greeting implemented
+
+[33mcommit f41880f2c085bd02940a0f4c20e548438b33a8ab[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Sep 17 19:15:06 2021 +0000
+
+    python greeing
+
+[33mcommit aa659a8115a51472bfb2f1c168218de80627e9d6[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Sep 17 15:01:17 2021 -0400
+
+    Update package.json
+
+[33mcommit 641bde9858b4476a0aa8ef7dc56d62779b45e79d[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Sep 3 18:34:45 2021 -0400
+
+    Update layout.js
+
+[33mcommit 3684bec2d0d823ff0068edf50811f491fb1811e8[m
+Merge: ed1a209 034ee3c
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu May 27 14:40:45 2021 -0400
+
+    Merge pull request #29 from 4GeeksAcademy/dependabot/npm_and_yarn/dns-packet-1.3.4
+    
+    Bump dns-packet from 1.3.1 to 1.3.4
+
+[33mcommit ed1a2097d9698b673f3728cbf34b2bb0eeed9637[m
+Merge: b57826f 54a4574
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed May 26 19:49:39 2021 -0400
+
+    Merge pull request #23 from 4GeeksAcademy/dependabot/npm_and_yarn/elliptic-6.5.4
+    
+    Bump elliptic from 6.5.3 to 6.5.4
+
+[33mcommit 034ee3cccd8422b3cb948967f33471d27067b98e[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed May 26 23:49:38 2021 +0000
+
+    Bump dns-packet from 1.3.1 to 1.3.4
+    
+    Bumps [dns-packet](https://github.com/mafintosh/dns-packet) from 1.3.1 to 1.3.4.
+    - [Release notes](https://github.com/mafintosh/dns-packet/releases)
+    - [Changelog](https://github.com/mafintosh/dns-packet/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/mafintosh/dns-packet/compare/v1.3.1...v1.3.4)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit b57826f2d20e24fb7bba35744029303f9a8eacc6[m
+Merge: 7eda140 1ac7444
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed May 26 19:49:30 2021 -0400
+
+    Merge pull request #24 from 4GeeksAcademy/dependabot/npm_and_yarn/y18n-4.0.1
+    
+    Bump y18n from 3.2.1 to 4.0.1
+
+[33mcommit 7eda140a0c79a0bf00c65a26d1aa33974c67aebc[m
+Merge: f2c663f e5d6fc8
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed May 26 19:49:22 2021 -0400
+
+    Merge pull request #25 from 4GeeksAcademy/dependabot/npm_and_yarn/ssri-6.0.2
+    
+    Bump ssri from 6.0.1 to 6.0.2
+
+[33mcommit f2c663f01b77dfc6c7a6c9b62d18374ac38c3908[m
+Merge: a9d067e d639ceb
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed May 26 19:49:18 2021 -0400
+
+    Merge pull request #26 from 4GeeksAcademy/dependabot/npm_and_yarn/url-parse-1.5.1
+    
+    Bump url-parse from 1.4.7 to 1.5.1
+
+[33mcommit a9d067e1c6d10d619291803f07ba91260501adf3[m
+Merge: 67cc5f5 081009e
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed May 26 19:49:12 2021 -0400
+
+    Merge pull request #27 from 4GeeksAcademy/dependabot/npm_and_yarn/lodash-4.17.21
+    
+    Bump lodash from 4.17.20 to 4.17.21
+
+[33mcommit 67cc5f5d863780c4a39d156b9337f2d7988ce06c[m
+Merge: fdc12b2 e2d6d95
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed May 26 19:49:07 2021 -0400
+
+    Merge pull request #28 from 4GeeksAcademy/dependabot/npm_and_yarn/hosted-git-info-2.8.9
+    
+    Bump hosted-git-info from 2.8.8 to 2.8.9
+
+[33mcommit fdc12b249c50ff5a5e664a82d530c78a18b28fd7[m
+Merge: 5586369 287aa9c
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed May 26 19:48:52 2021 -0400
+
+    Merge pull request #22 from 4GeeksAcademy/dependabot/npm_and_yarn/ini-1.3.7
+    
+    Bump ini from 1.3.5 to 1.3.7
+
+[33mcommit e2d6d955a2494e6787214f44a36722d40cabaa10[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sun May 9 18:06:00 2021 +0000
+
+    Bump hosted-git-info from 2.8.8 to 2.8.9
+    
+    Bumps [hosted-git-info](https://github.com/npm/hosted-git-info) from 2.8.8 to 2.8.9.
+    - [Release notes](https://github.com/npm/hosted-git-info/releases)
+    - [Changelog](https://github.com/npm/hosted-git-info/blob/v2.8.9/CHANGELOG.md)
+    - [Commits](https://github.com/npm/hosted-git-info/compare/v2.8.8...v2.8.9)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 081009e4d3118a2902f9d31f0f7c1f638f58c5c1[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri May 7 20:10:21 2021 +0000
+
+    Bump lodash from 4.17.20 to 4.17.21
+    
+    Bumps [lodash](https://github.com/lodash/lodash) from 4.17.20 to 4.17.21.
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/compare/4.17.20...4.17.21)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit d639cebc893131fa96ed87011d812532160ef0e1[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu May 6 22:45:31 2021 +0000
+
+    Bump url-parse from 1.4.7 to 1.5.1
+    
+    Bumps [url-parse](https://github.com/unshiftio/url-parse) from 1.4.7 to 1.5.1.
+    - [Release notes](https://github.com/unshiftio/url-parse/releases)
+    - [Commits](https://github.com/unshiftio/url-parse/compare/1.4.7...1.5.1)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit e5d6fc8dcc4f9886e360844e8ea25dbd171c23a2[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Apr 19 18:13:10 2021 +0000
+
+    Bump ssri from 6.0.1 to 6.0.2
+    
+    Bumps [ssri](https://github.com/npm/ssri) from 6.0.1 to 6.0.2.
+    - [Release notes](https://github.com/npm/ssri/releases)
+    - [Changelog](https://github.com/npm/ssri/blob/v6.0.2/CHANGELOG.md)
+    - [Commits](https://github.com/npm/ssri/compare/v6.0.1...v6.0.2)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 1ac7444a2b747d673f0683f2f5f92253944a1635[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Mar 30 15:11:16 2021 +0000
+
+    Bump y18n from 3.2.1 to 4.0.1
+    
+    Bumps [y18n](https://github.com/yargs/y18n) from 3.2.1 to 4.0.1.
+    - [Release notes](https://github.com/yargs/y18n/releases)
+    - [Changelog](https://github.com/yargs/y18n/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/yargs/y18n/commits)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 54a45741bf865513e387a8cf2db6226f056a1f00[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Mar 8 22:26:52 2021 +0000
+
+    Bump elliptic from 6.5.3 to 6.5.4
+    
+    Bumps [elliptic](https://github.com/indutny/elliptic) from 6.5.3 to 6.5.4.
+    - [Release notes](https://github.com/indutny/elliptic/releases)
+    - [Commits](https://github.com/indutny/elliptic/compare/v6.5.3...v6.5.4)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 287aa9cda8fa611cdd188e47c3a44fd5fed0c9cb[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Dec 10 23:19:37 2020 +0000
+
+    Bump ini from 1.3.5 to 1.3.7
+    
+    Bumps [ini](https://github.com/isaacs/ini) from 1.3.5 to 1.3.7.
+    - [Release notes](https://github.com/isaacs/ini/releases)
+    - [Commits](https://github.com/isaacs/ini/compare/v1.3.5...v1.3.7)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 5586369c26f9e88d6253332e8a792226bf169f6f[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Nov 6 12:32:03 2020 -0500
+
+    Update layout.js
+
+[33mcommit e70ac9aafa00605496dd9d8aa350d67cf62c5ea3[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Oct 23 15:38:30 2020 +0000
+
+    changed images on the readme to local folder to avoid 404 in the future
+
+[33mcommit 4b530ba091a981d3916cc6e960e370decaf2e234[m
+Merge: 468506a bce53ab
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Oct 23 15:19:04 2020 +0000
+
+    switched to vercel instad of now, added more thorough docs
+
+[33mcommit 468506aa4158f7669861c6ef624c3813556540fd[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Oct 23 15:00:11 2020 +0000
+
+    regenerator runtime
+
+[33mcommit bce53ab03187f6a4d969c17760a75cdb5409c7f9[m
+Merge: 48e5e81 1197140
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Oct 23 10:59:32 2020 -0400
+
+    Merge pull request #18 from 4GeeksAcademy/dependabot/npm_and_yarn/websocket-extensions-0.1.4
+    
+    Bump websocket-extensions from 0.1.3 to 0.1.4
+
+[33mcommit 48e5e8128b6ffddcb0fcd3f504710c3150ec860f[m
+Merge: 60c0a06 bf5059d
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Oct 23 10:59:22 2020 -0400
+
+    Merge pull request #19 from 4GeeksAcademy/dependabot/npm_and_yarn/lodash-4.17.19
+    
+    Bump lodash from 4.17.15 to 4.17.19
+
+[33mcommit 60c0a066b7b8794f0255741311eade8fc5e42df9[m
+Merge: 5e34901 44a6ebd
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Oct 23 10:59:12 2020 -0400
+
+    Merge pull request #20 from 4GeeksAcademy/dependabot/npm_and_yarn/elliptic-6.5.3
+    
+    Bump elliptic from 6.5.2 to 6.5.3
+
+[33mcommit 5e34901ef6588469e4a30a97b070744a1a2d864f[m
+Merge: cbed49a 0c5de5d
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Oct 23 10:59:01 2020 -0400
+
+    Merge pull request #21 from 4GeeksAcademy/dependabot/npm_and_yarn/http-proxy-1.18.1
+    
+    Bump http-proxy from 1.17.0 to 1.18.1
+
+[33mcommit cbed49adbe81f0ef6bec48db343d8e60adddd9a1[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Oct 23 10:52:06 2020 -0400
+
+    Update package.json
+
+[33mcommit addee48e5b001bdb28a6c64433fb5555771fb5e0[m
+Author: Paolo Lucano <44124290+plucodev@users.noreply.github.com>
+Date:   Wed Oct 21 17:33:36 2020 -0400
+
+    Update single.js
+
+[33mcommit 0ee8287f4c1748ddd718864856a4e6ef95729cc9[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Sep 11 11:16:39 2020 -0400
+
+    Added bundle.js rout
+    
+    If the deployed URL had subdirectories if was imposible to find the bundle, not its going to be fine because we harcoded the bundle import to the ROOT
+
+[33mcommit 0c5de5d9cb5ce6f8ba27965efa9c06edb74c8d15[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sun Sep 6 14:10:48 2020 +0000
+
+    Bump http-proxy from 1.17.0 to 1.18.1
+    
+    Bumps [http-proxy](https://github.com/http-party/node-http-proxy) from 1.17.0 to 1.18.1.
+    - [Release notes](https://github.com/http-party/node-http-proxy/releases)
+    - [Changelog](https://github.com/http-party/node-http-proxy/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/http-party/node-http-proxy/compare/1.17.0...1.18.1)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 44a6ebd6d68f5d6a4fd60e54b7b82a79af67eca3[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Jul 30 08:25:44 2020 +0000
+
+    Bump elliptic from 6.5.2 to 6.5.3
+    
+    Bumps [elliptic](https://github.com/indutny/elliptic) from 6.5.2 to 6.5.3.
+    - [Release notes](https://github.com/indutny/elliptic/releases)
+    - [Commits](https://github.com/indutny/elliptic/compare/v6.5.2...v6.5.3)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit bf5059ddd6de9fe1c13936e224a9e5a0d990c07d[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Jul 16 11:22:25 2020 +0000
+
+    Bump lodash from 4.17.15 to 4.17.19
+    
+    Bumps [lodash](https://github.com/lodash/lodash) from 4.17.15 to 4.17.19.
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/compare/4.17.15...4.17.19)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 466f84dc1eab8ef68f98f0ffd49e7ce21ae48e4d[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Jul 9 14:29:00 2020 -0400
+
+    Update layout.js
+
+[33mcommit 2d244a4d4b8ff60ebfafdb4ce30354f6fed8cf98[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Jul 7 20:02:16 2020 +0000
+
+    added changelog
+
+[33mcommit b331e75089cfb6a370fd07d59ba8704d1b996fe3[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Jul 7 19:59:40 2020 +0000
+
+    updated react router
+
+[33mcommit 0fb073398a6fa4941d4b611170cb93629a4d51bf[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Jul 3 23:24:25 2020 -0400
+
+    Update README.md
+
+[33mcommit 79634a214d4f08fde072a0eaa4469d6a2d26e0d7[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Jul 3 23:22:12 2020 -0400
+
+    Add files via upload
