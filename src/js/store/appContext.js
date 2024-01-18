@@ -25,8 +25,8 @@ const injectContext = PassedComponent => {
 
 			state.actions.getcharacters()
 			state.actions.getPlanet()
-			state.actions.addFavorites()
-			state.actions.deleteFavorites()
+			//state.actions.addFavorites()
+			//state.actions.deleteFavorites()
 		}, []);
 
 		return (
