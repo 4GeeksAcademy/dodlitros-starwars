@@ -1,3 +1,4 @@
+//@ts-check
 const getState = ({ getStore, getActions, setStore }) => {
 	return {
 		store: {
@@ -51,9 +52,16 @@ const getState = ({ getStore, getActions, setStore }) => {
 				}
 			},
 			addFavorites: (favorito) => {
-				const store = getStore()
-				const actions = getActions() 
-				setStore({ favorites: [...getStore().favorites, favorito]});
+				console.log("Adding to favorites:", favorito);
+				const store = getStore();
+				const actions = getActions();
+				if (!store.favorites.includes(favorito)) {
+					setStore({ favorites: [favorito, ...store.favorites] });
+					console.log("Favorites after addition:", getStore().favorites);
+				} else {
+					actions.deleteFavorites(favorito);
+					console.log("Favorites after deletion:", getStore().favorites);
+				}
 			},
 			deleteFavorites: (name) => {
 				const store = getStore();

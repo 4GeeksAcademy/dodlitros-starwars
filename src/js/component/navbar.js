@@ -15,12 +15,12 @@ export const Navbar = () => {
 						Favorites ({store.favorites.length})
 					</button>
 					<ul className="dropdown-menu dropdown-menu-end">
-					{store.favorites && store.favorites.length > 0 ? store.favorites.map((item) => {
+					{store.favorites && store.favorites.length > 0 ? store.favorites.map((item, index) => {
 						return(
-							<li key={item.id} className="dropdown-item">
-								{item.priperties.item} 
-								
+							<li key={index} className="dropdown-item">
+								{item} 
 							</li>
+						
 						)
 						}):
 						<li className="dropdown-item">

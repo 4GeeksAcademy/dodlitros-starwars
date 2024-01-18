@@ -14,7 +14,7 @@ export const Home = () => {
                 <div className="my-carrusel">
                     {store.characters.map((item) => {
                         return ( 
-						<>
+						<div>
                             <div className="my-card">
 								<div>
 									<img src={`https://starwars-visualguide.com/assets/img/characters/${item.uid}.jpg`} alt=""/>
@@ -33,7 +33,7 @@ export const Home = () => {
 									</button>
 								</div>
                     		</div>
-						</>	
+						</div>	
                         )
                     })}
 
@@ -44,7 +44,7 @@ export const Home = () => {
                 <div className="my-carrusel">
                     {store.planets.map((item) => {
                         return ( 
-						<>
+						<div>
                             <div className="my-card">
 								<div>
 									<img src={`https://starwars-visualguide.com/assets/img/planets/${item.uid}.jpg`} alt=""/>
@@ -57,11 +57,12 @@ export const Home = () => {
 								<div className="button-footer">
 									<Link to={`/planets/${item.uid}`} className="btn btn-outline-primary">Learn more</Link>
 									<button className="btn btn-outline-warning"
-									onClick={() => state.actions.addFavorites(item.properties.name)}
-									>♡</button>
+										onClick={() => actions.addFavorites(item.properties.name)}
+										>♡
+									</button>
 								</div>
                    			 </div>
-						</>
+						</div>
                         )
                     })}
 
