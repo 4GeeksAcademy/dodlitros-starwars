@@ -1,0 +1,10 @@
+#deleteFavoritesBtn {
+    padding-right: 10px;
+    cursor: pointer;
+    transition: color 0.3s; /* Transición para el cambio de color */
+}
+
+/* Cambia el color del texto cuando el mouse pasa por encima del botón */
+#deleteFavoritesBtn:hover {
+    color: red;
+}

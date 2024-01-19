@@ -1,6 +1,7 @@
 import React, {useContext} from "react";
 import { Link } from "react-router-dom";
 import { Context } from "../store/appContext";
+import "../../styles/delete.css"
 
 export const Navbar = () => {
 	const {store, actions} = useContext(Context)
@@ -17,9 +18,12 @@ export const Navbar = () => {
 					<ul className="dropdown-menu dropdown-menu-end">
 					{store.favorites && store.favorites.length > 0 ? store.favorites.map((item, index) => {
 						return(
-							<li key={index} className="dropdown-item">
-								{item} 
-							</li>
+							<div className="d-flex justify-content-between">
+								<p key={index} className="dropdown-item">
+									{item} 
+								</p>
+								<p id="deleteFavoritesBtn" onClick={ () => actions.deleteFavorites(item) }  > <strong> x </strong> </p>
+							</div>
 						
 						)
 						}):
